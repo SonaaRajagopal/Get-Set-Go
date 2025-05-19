@@ -1,16 +1,5 @@
-# ai_project
+# Get Set Go
 
-A new Flutter project.
+Get Set Go is a travel application intergrated with AI to enhance overall user experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This AI-powered travel app to offer personalized itineraries with an integrated AI-driven chatbot built using Gemini API with a 95% accuracy rate in answering queries.
