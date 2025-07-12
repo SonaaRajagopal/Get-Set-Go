@@ -4,7 +4,7 @@
 [![Powered by Gemini API](https://img.shields.io/badge/Powered%20by-Gemini%20API-orange?logo=google)](https://ai.google.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**Get Set Go** is a cross-platform travel application built using **Flutter (Dart)** and powered by **Gemini AI** to offer users an enhanced, personalized travel experience. It generates intelligent travel itineraries and offers real-time query responses through an integrated AI chatbot with up to **95% accuracy**.
+**Get Set Go** is a cross-platform travel application built using **Flutter (Dart)** and powered by **Gemini AI** to offer users an enhanced, personalized travel experience. It generates intelligent travel itineraries and offers real-time query responses through an integrated AI chatbot.
 
 ---
 
